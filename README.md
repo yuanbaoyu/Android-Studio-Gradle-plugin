@@ -6,3 +6,9 @@
 gradle补全插件  https://github.com/ligi/GradleDependenciesHelperPlugin
 
 <img src="https://lh3.googleusercontent.com/-Q6Nyp1XdYLw/Ujs2ZQuff4I/AAAAAAAADbM/bMpLQgBfMkc/w587-h309-no/idea_gradle_plugin.png" />
+
+2、svgtoandroid
+
+该插件用于转换svg图片
+
+Transforming SVG to android VectorDrawable  https://github.com/misakuo/svgtoandroid
