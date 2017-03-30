@@ -12,3 +12,7 @@ gradle补全插件  https://github.com/ligi/GradleDependenciesHelperPlugin
 该插件用于转换svg图片
 
 Transforming SVG to android VectorDrawable  https://github.com/misakuo/svgtoandroid
+
+3、一个漂亮的jekyll模块
+
+https://github.com/Huxpro/huxpro.github.io
